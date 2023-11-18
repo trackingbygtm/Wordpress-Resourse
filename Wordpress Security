@@ -1,0 +1,21 @@
+/** Absolute path to the WordPress directory. */
+if ( ! defined( 'ABSPATH' ) ) {
+	define( 'ABSPATH', __DIR__ . '/' );
+}
+/** Sets up WordPress vars and included files. */
+require_once ABSPATH . 'wp-settings.php';
+define('DISALLOW_FILE_EDIT', true);
+define('DISALLOW_FILE_MODS', true);
+
+
+
+
+
+
+
+
+if this document is helpful for subscribe my channel for more upcoming videos.
+
+CEO - Founder
+TrackingbyGTM
+https://wlo.link/@trackingbygtm
