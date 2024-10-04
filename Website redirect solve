@@ -5,4 +5,4 @@ RewriteRule ^(.*)$ http://websitedomain2.com/$1 [R=301,L]
 
 
 
-on httacess   doneb 
+on httacess   done  make sure    all  code will be on first code 
